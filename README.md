@@ -1,2 +1,2 @@
 # maxeymaxey
-Max Patch for controlling sounds with Makey Makey
+Max Patch for controlling sounds and videos with Makey Makey
