@@ -1,7 +1,0 @@
-{
-	"preset_data" : [ 		{
-			"number" : 1,
-			"data" : [ 5, "obj-31", "number", "int", 2, 5, "obj-107", "textedit", "set", "empty", 5, "obj-113", "umenu", "int", 0, 5, "obj-125", "number", "int", 109, 6, "obj-133", "gain~", "list", 122, 10.0, 5, "obj-140", "number", "int", 2, 5, "obj-137", "textedit", "set", "empty", 5, "obj-135", "umenu", "int", 0, 5, "obj-147", "number", "int", 1, 5, "obj-144", "textedit", "set", "empty", 5, "obj-142", "umenu", "int", 0, 5, "obj-154", "number", "int", 0, 5, "obj-151", "textedit", "set", "empty", 5, "obj-149", "umenu", "int", 0, 5, "obj-161", "number", "int", 0, 5, "obj-158", "textedit", "set", "empty", 5, "obj-156", "umenu", "int", 0, 5, "obj-168", "number", "int", 0, 5, "obj-165", "textedit", "set", "empty", 5, "obj-163", "umenu", "int", 0, 5, "obj-175", "number", "int", 0, 5, "obj-172", "textedit", "set", "empty", 5, "obj-170", "umenu", "int", 0, 5, "obj-182", "number", "int", 0, 5, "obj-179", "textedit", "set", "empty", 5, "obj-177", "umenu", "int", 0, 5, "obj-189", "number", "int", 0, 5, "obj-186", "textedit", "set", "empty", 5, "obj-184", "umenu", "int", 0, 5, "obj-196", "number", "int", 2, 5, "obj-193", "textedit", "set", "empty", 5, "obj-191", "umenu", "int", 0, 5, "obj-199", "number", "int", 109, 5, "obj-212", "number", "int", 2, 5, "obj-209", "textedit", "set", "empty", 5, "obj-207", "umenu", "int", 0 ]
-		}
- ]
-}
